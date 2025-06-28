@@ -1,0 +1,8 @@
+{
+    "status": [
+        {"id": 1, "name": "In progress"},
+        {"id": 2, "name": "Revision"},
+        {"id": 3, "name": "Completed"},
+        {"id": 4, "name": "Paused"}
+    ]
+}
