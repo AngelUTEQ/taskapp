@@ -126,22 +126,22 @@ curl -X GET http://127.0.0.1:5000/tasks \
 
 | Método | Endpoint | Descripción | Auth |
 |--------|----------|-------------|------|
-| POST | `/auth/register` | Registrar nuevo usuario | ❌ |
-| POST | `/auth/login` | Iniciar sesión | ❌ |
-| POST | `/auth/validate_token` | Validar token | ❌ |
-| POST | `/auth/logout` | Cerrar sesión | ❌ |
-| GET | `/auth/health` | Estado del servicio | ❌ |
+| POST | `/auth/register` | Registrar nuevo usuario |  |
+| POST | `/auth/login` | Iniciar sesión |  |
+| POST | `/auth/validate_token` | Validar token |  |
+| POST | `/auth/logout` | Cerrar sesión |  |
+| GET | `/auth/health` | Estado del servicio |  |
 
 ### Usuarios (`/users`)
 
 | Método | Endpoint | Descripción | Auth |
 |--------|----------|-------------|------|
-| GET | `/users` | Obtener todos los usuarios | ❌ |
-| GET | `/users/{id}` | Obtener usuario por ID | ❌ |
-| POST | `/users` | Crear nuevo usuario | ❌ |
-| PUT | `/users/{id}` | Actualizar usuario | ❌ |
-| DELETE | `/users/{id}` | Eliminar usuario | ❌ |
-| GET | `/users/health` | Estado del servicio | ❌ |
+| GET | `/users` | Obtener todos los usuarios |  |
+| GET | `/users/{id}` | Obtener usuario por ID |  |
+| POST | `/users` | Crear nuevo usuario |  |
+| PUT | `/users/{id}` | Actualizar usuario |  |
+| DELETE | `/users/{id}` | Eliminar usuario |  |
+| GET | `/users/health` | Estado del servicio |  |
 
 ### Tareas (`/tasks`)
 
