@@ -1,4 +1,4 @@
-# 🚀 Microservicios API - Sistema de Gestión de Tareas
+# Microservicios API - Sistema de Gestión de Tareas
 
 Un sistema de microservicios desarrollado en Flask que incluye autenticación, gestión de usuarios y tareas.
 
