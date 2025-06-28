@@ -245,22 +245,6 @@ curl -X POST http://127.0.0.1:5000/users \
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## Autor
-
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
-
-## Agradecimientos
-
-- Flask por el framework web
-- SQLite por la base de datos
-- La comunidad de Python por las herramientas
-
 ---
 
 ### ¡Listo para usar! 
